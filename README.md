@@ -1,65 +1,36 @@
-## Hi there 👋
+# Hi, I'm Raffi Muloc 👋 
 
-# Hi, I'm Raffi Muloc 👋
+Full-stack Software Engineer with 8+ years of expertise in designing, developing, and maintaining scalable web applications using modern JavaScript/TypeScript technologies.
 
-Senior Full Stack Engineer with 8+ years of experience building scalable web applications, SaaS platforms, and enterprise solutions using modern JavaScript and TypeScript technologies.
+##⚡&nbsp;&nbsp;Skills
 
-I enjoy designing systems, solving complex business problems, and building products that deliver real value to users.
+<div align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://react.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://vuejs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=vue" alt="vuejs logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://vite.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" alt="vite logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=next" alt="next logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://tanstack.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tanstack" alt="Tanstack logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=sass" alt="sass logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" alt="tailwindcss logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://bun.sh" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=bun" alt="bun logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="githubactions logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://vercel.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" alt="vercel logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://wikipedia.org/wiki/Bash" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="sqlite logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.electronjs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=electron" alt="electron logo" width="50" height="50" /></a>&nbsp;
+ </div>
 
----
+<br> 
 
-## 🚀 About Me
+## 🌐&nbsp;&nbsp;Socials
 
-- 💼 Senior Full Stack Engineer
-- 🌏 Based in the Philippines
-- 💻 Specialized in React, Next.js, NestJS, and Node.js
-- 🏗️ Experienced in designing scalable SaaS applications
-- 🔐 Built authentication, RBAC, payment, and data management systems
-- ☁️ Experience with AWS, Docker, CI/CD, and cloud deployments
-- 🤖 Interested in AI, Machine Learning, Blockchain, and System Design
+<div align="left">
+  <a href="https://www.linkedin.com/in/raaeeli/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="50" height="50" alt="telegram" /></a>&nbsp;
+  <a href="mailto:raffibucog@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50" height="50" alt="gmail" /></a>&nbsp;
+  <a href="https://stackoverflow.com/users/9038359/raffi-muloc"><img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" width="50" height="50" alt="stackoverflow" /></a>
+</div>
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
-
-### Other
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/raaeeli/)
-- Portfolio: [https://YOUR_PORTFOLIO](https://raffimuloc.vercel.app/)
-- Email: raffibucog@gmail.com
-
----
