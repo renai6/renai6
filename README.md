@@ -2,7 +2,7 @@
 
 # Hi, I'm Raffi Muloc 👋
 
-Senior Full Stack Engineer with 6+ years of experience building scalable web applications, SaaS platforms, and enterprise solutions using modern JavaScript and TypeScript technologies.
+Senior Full Stack Engineer with 8+ years of experience building scalable web applications, SaaS platforms, and enterprise solutions using modern JavaScript and TypeScript technologies.
 
 I enjoy designing systems, solving complex business problems, and building products that deliver real value to users.
 
