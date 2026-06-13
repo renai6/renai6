@@ -2,7 +2,7 @@
 
 Full-stack Software Engineer with 8+ years of expertise in designing, developing, and maintaining scalable web applications using modern JavaScript/TypeScript technologies.
 
-##⚡&nbsp;&nbsp;Skills
+⚡&nbsp;&nbsp;Skills
 
 <div align="left">
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript logo" width="50" height="50" /></a>&nbsp;
